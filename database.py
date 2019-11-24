@@ -1,4 +1,4 @@
-import pyMySQL
+import pymysql
 
 
 def getGame(id):
